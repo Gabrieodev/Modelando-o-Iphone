@@ -15,7 +15,7 @@
 - ☕ **Java** – Lógica de programação e POO  
 - 🎨 **UML** – Modelagem das classes e interfaces  
 - 🛠 **VS Code** – IDE utilizada para o desenvolvimento  
-- 📌 **[Draw.io/Lucidchart/etc.]** – Ferramenta usada para criar o diagrama
+- 📌 **Draw.io** – Ferramenta usada para criar o diagrama
 
 ## ▶ Como Rodar  
 
