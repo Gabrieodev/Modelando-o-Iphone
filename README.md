@@ -1,6 +1,7 @@
 # 📱 Modelando o iPhone com UML  
 
-![📌 Diagrama UML](./path/to/your/uml_diagram.png)  
+## 📌 Diagrama UML  
+<img src="./diagrams/DiagramaUml.png" width="50%" />
 
 🔹 Projeto para praticar **POO (Programação Orientada a Objetos)** e **modelagem UML**, representando as funções do iPhone:  
 🎵 **Reprodutor Musical** | 📞 **Aparelho Telefônico** | 🌍 **Navegador na Internet**  
